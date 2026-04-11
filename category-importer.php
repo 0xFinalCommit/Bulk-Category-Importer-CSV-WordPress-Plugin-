@@ -2,7 +2,7 @@
 /*
 Plugin Name: Category Importer CSV Pro
 Description: Import hierarchical categories (parent-child-subchild) from CSV with validation and reporting
-Version: 2.0
+Version: 1.0
 */
 
 if (!defined('ABSPATH')) exit;
